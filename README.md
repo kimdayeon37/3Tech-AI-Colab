@@ -1,5 +1,5 @@
 # 3Tech-AI-Colab
-Jupyter 활용한 Translation Model
+Colab 활용한 Translation Model
 
 
 - [기계번역-이미지생성_딥러닝_포스터.pdf](https://github.com/kimdayeon37/3Tech-AI-Colab/files/13292576/-._._.pdf)
